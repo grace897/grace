@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+            
+            body {
+                background-color:rgb(197, 235, 234);
+            }
+            
+            h1 {
+                color:rgb(85, 125, 181);
+            }
+            
+            h2 {
+                color:rgb(230, 99, 99);
+            }
+            
+        </style>
+    </head>
+    <body>
+    
+        <h1>Travel to ...South Korea!</h1>
+        <h2>Where is South Korea?</h2>
+        <p>South Korea is located in eastern Asia. It is bordered by the Yellow Sea to the west, the Sea of Japan (East Sea) to the east, the Korea Strait to the south, and North Korea to the north.
+        <h2>Why is it a good place to travel to?</h2>
+        <ul>
+          <li> Beautiful beaches
+          <li> Calming sunsets and sunrises  
+          <li> Exciting food
+          <li> Awesome tourist attractions
+          <li> Year-round Festivals
+          <li> Etc...
+        </ul>
+    </body>
+</html>
