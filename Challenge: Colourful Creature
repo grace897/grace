@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+        <style>
+            
+           h1 {
+               color:rgb(0, 102, 255) ;
+           } 
+           p { 
+               color:rgb(166, 234, 255);
+           }
+            body {
+                background-color:rgb(255, 135, 135);
+            }
+        </style>
+        
+        
+    </head>
+    <body>
+        
+        <h1>The coolest creature</h1>
+        
+        <p>The <em>piceratops sapling</em> is awesome because <strong>it has wings and has an evil look in its eyes</strong>.</p>
+        <img src="https://www.kasandbox.org/programming-images/avatars/piceratops-sapling.png">
+    </body>
+</html>
