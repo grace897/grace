@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: The dinner table</title>
+    </head>
+    <body>
+    
+        <h1>Our dinner menu</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Meal</th>
+                    <th>Ingredients</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Pizza</td>
+                    <td>Dough, Tomato sauce, Toppings</td>
+                    <td>$7.25</td>
+            
+                </tr>
+                <tr>
+                    <td>Cream Pasta</td>
+                    <td>Noodles, Thickened cream, Mushrooms, Bacon </td>
+                    <td>$4.50</td>
+            
+                </tr>
+                <tr>
+                    <td>Steak</td>
+                    <td>Meat, Seasoning, Vegetable</td>
+                    <td>$14.00</td>
+            
+                </tr>
+            </tbody>
+        </table>
+
+    </body>
+</html>
