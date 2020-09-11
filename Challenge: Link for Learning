@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Links for learning</title>
+    </head>
+    <body>
+        
+        <h1>Links for learning</h1>
+        
+        <ul>
+            <li><a href="https://www.quora.com/Why-is-pizza-so-delicious">Why is pizza so tasty?</a></li>
+            <li><a href="https://www.petcircle.com.au/discover/bunny-fun-facts">Bunny Fun Facts</a></li>
+            <li><a href="https://www.thesprucepets.com/why-cats-are-better-than-dogs-554880">Why cats are better than dogs</a></li>
+        </ul>
+<a href="https://en.wikipedia.org/wiki/Love_Hearts">
+         <img src="https://www.kasandbox.org/programming-images/cute/Heart.png">
+            
+        </a>
+    </body>
+</html>
