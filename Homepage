@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<h1>Homepage</h1>
+    </head>
+    <body>
+    <h3>I have been using Khanacademy to learn all about HTMLs and CSS. Here are the activities I completed through the things I have learned about:</h3>
+    <ul>
+        
+        <li><a href="./challenge-write-a-poem.html">Write a Poem</a></li>
+        <li><a href="./challenge-you-can-learn-text-tags.html">You Can Learn Text Tags</a></li>
+        <li><a href="./challenge-wishlist.html">Wishlist</a></li>
+        <li><a href="./challenge-a-picture-perfect-trip.html">A pIcture Perfect Trip</a></li>
+        <li><a href="./challenge-colourful-creature.html">Colourful Creature</a></li>
+        <li><a href="./challenge-seasonal-ids.html">Seasonal Ids</a></li>
+        <li><a href="./challenge-apples-and-bananas-classes.html">Apples and Bananas Classes</a></li>
+        <li><a href="./project-travel-webpage.html">Travel Webpage</a></li>
+        <li><a href="./challenge-links-for-learning.html">Links For Learning</a></li>
+        <li><a href="./challenge-jump-around.html">Jump Around</a></li>
+        <li><a href="./challenge-the-dinner-table.html">The Dinner Table</a></li>
+        
+    </ul>
+    </body>
+</html>
