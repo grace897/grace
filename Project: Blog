@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <style>
+            h1{
+                color: rgb(222, 111, 111);
+                font-family: sans-serif;
+                background-color: rgb(174, 217, 203);
+            }
+            h3{
+                color: rgb(76, 153, 212);
+                font-family: sans-serif;
+            }
+            h2{
+                color: rgb(232, 183, 93);
+                font-family: sans-serif;
+            }
+            h4{
+                color: rgb(109, 186, 153);
+                font-family: monospace;
+            }
+            ul{
+                color: rgb(76, 153, 212);
+                font-family: sans-serif;
+            }
+            p{
+                color: rgb(117, 117, 117);
+                font-family: cursive;
+            }
+        
+            
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1>Grace's Blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#firstpost">First Post</a></li>
+            <li><a href="#secondpost">Second Post</a></li>
+        </ul>
+        
+        <h2 id="firstpost">First post</h2>
+        <h4>28/10/2020</h4>
+        
+        <p>During the Covid 19 lockdown, I started Khan Academy while doing online school. At first it was really confusing, and there are still a few things which I'm not 100% sure about so I need to look back to remember again. In my opinion, the 'Intro to HTML' section was super easy and I literally flew through the tasks, but as I continued to do the tasks, there were many difficult things, like having to add links to your page. I still do not get it.</p>
+        <h2 id="secondpost">Second post</h2>
+        <h4>28/10/2020...still the same day</h4>
+        <p>I learnt many things really easily through Khan Academy. I never thought I would be able to do things like this. I really enjoyed learning about changing the colours of texts and backgrounds, and ended up playing with it a lot. Although I'm still an amateur at this, and I have still a lot of things to learn about, I do kind of wish, in the very slightest bit, that one day I might make my own website. </p>
+        
+    
+        
+        
+    </body>
+</html>
