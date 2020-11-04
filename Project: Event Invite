@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+            h1 {
+                color: rgb(224, 4, 4);
+                font-family: cursive;
+            }
+            h2 {
+                color: rgb(0, 102, 255);
+                font-family: cursive;
+            }
+            ul {
+                color: rgb(0, 181, 66);
+                font-family: sans-serif;
+            }
+            p {
+                color: rgb(247, 128, 0);
+                font-family: monospace;
+                font-size: 17px;
+            }
+            div {
+                background: rgb(246, 255, 168);
+            }
+        </style>
+    </head>
+    <body>
+        
+        <div><h1>You're invited!</h1>
+        <h2>To Bob's 9th Birthday Party!</h2>
+        
+        <p>The details:</p>
+        <ul>
+            <li>Date: 27/11</li>
+            <li>When: 2pm - 6pm</li>
+            <li>Where: Mcdonald's, Glen Waverly, VIC</li>
+            
+        </ul>
+        <p>Please reply back by: 17/11 at: 0472 876 ---</p>
+        
+        <h2>Hope you can come!!</h2>
+        </div>
+    </body>
+</html>
